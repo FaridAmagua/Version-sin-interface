@@ -1,5 +1,7 @@
 ## 📦 Instalación
 
+IMPORTANTE QUITAR LA API_KEY 
+
 1. Clona o descarga este repositorio.
 2. Instala las dependencias con:
 
